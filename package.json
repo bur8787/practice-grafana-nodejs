@@ -1,0 +1,26 @@
+{
+  "name": "practice-grafana-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bur8787/practice-grafana-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bur8787/practice-grafana-nodejs/issues"
+  },
+  "homepage": "https://github.com/bur8787/practice-grafana-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "prom-client": "^14.0.1"
+  }
+}
